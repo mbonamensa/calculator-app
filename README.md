@@ -1,6 +1,6 @@
 # Altschool Calculator App Assignment
 
-This is a solution to the Calculator app assignment given by Altschool School of Engineering tutors.
+This is a solution to the Calculator app assignment given by AltSchool Africa [School of Software Engineering](https://altschoolafrica.com/schools/engineering) tutors.
 
 ## Table of contents
 
